@@ -6,12 +6,17 @@ export default function Header() {
           <div className="navbar-item">
             <h1 className="title is-5 has-text-white">Speech Synthesis</h1>
           </div>
+        </div>
 
-          <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false">
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
+        <div className="navbar-end">
+          <div className="navbar-item">
+          <a className="button is-primary" href="https://github.com/gabrielrufino/speech-synthesis" target="_blank">
+            <span className="icon has-text-white">
+              <i className="fab fa-github"></i>
+            </span>
+            <strong>Github</strong>
           </a>
+          </div>
         </div>
       </nav>
     </header>
