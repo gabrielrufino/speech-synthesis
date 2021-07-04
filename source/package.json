@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://gabrielrufino.github.io/speech-synthesis/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielrufino/speech-synthesis.git"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@testing-library/jest-dom": "^5.12.0",
