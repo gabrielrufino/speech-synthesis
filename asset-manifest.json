@@ -5,19 +5,19 @@
     "main.js.map": "/speech-synthesis/static/js/main.781d5636.chunk.js.map",
     "runtime-main.js": "/speech-synthesis/static/js/runtime-main.634c6914.js",
     "runtime-main.js.map": "/speech-synthesis/static/js/runtime-main.634c6914.js.map",
-    "static/css/2.bcaa3f17.chunk.css": "/speech-synthesis/static/css/2.bcaa3f17.chunk.css",
+    "static/css/2.3155c01e.chunk.css": "/speech-synthesis/static/css/2.3155c01e.chunk.css",
     "static/js/2.8820c40c.chunk.js": "/speech-synthesis/static/js/2.8820c40c.chunk.js",
     "static/js/2.8820c40c.chunk.js.map": "/speech-synthesis/static/js/2.8820c40c.chunk.js.map",
     "static/js/3.126d47fc.chunk.js": "/speech-synthesis/static/js/3.126d47fc.chunk.js",
     "static/js/3.126d47fc.chunk.js.map": "/speech-synthesis/static/js/3.126d47fc.chunk.js.map",
     "index.html": "/speech-synthesis/index.html",
-    "static/css/2.bcaa3f17.chunk.css.map": "/speech-synthesis/static/css/2.bcaa3f17.chunk.css.map",
+    "static/css/2.3155c01e.chunk.css.map": "/speech-synthesis/static/css/2.3155c01e.chunk.css.map",
     "static/css/main.2bc402c7.chunk.css.map": "/speech-synthesis/static/css/main.2bc402c7.chunk.css.map",
     "static/js/2.8820c40c.chunk.js.LICENSE.txt": "/speech-synthesis/static/js/2.8820c40c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.634c6914.js",
-    "static/css/2.bcaa3f17.chunk.css",
+    "static/css/2.3155c01e.chunk.css",
     "static/js/2.8820c40c.chunk.js",
     "static/css/main.2bc402c7.chunk.css",
     "static/js/main.781d5636.chunk.js"
